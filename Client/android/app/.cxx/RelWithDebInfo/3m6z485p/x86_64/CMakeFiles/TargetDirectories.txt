@@ -1,0 +1,2 @@
+/Users/doge/Documents/Python/学不通/Client/android/app/.cxx/RelWithDebInfo/3m6z485p/x86_64/CMakeFiles/edit_cache.dir
+/Users/doge/Documents/Python/学不通/Client/android/app/.cxx/RelWithDebInfo/3m6z485p/x86_64/CMakeFiles/rebuild_cache.dir
